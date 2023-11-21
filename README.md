@@ -22,6 +22,8 @@ function App() {
 
 ## Additional Information
 
+- [Sejong Lounge](https://naver.me/F6mxi8mf)(학생회관 3층)
+- [AI 콜라보 랩](http://www.sejongpr.ac.kr/sejongwebzinenewspaperview.do?pkid=33411)(대양AI센터 3층) 
 - [제주몰빵](https://naver.me/5tj9D1oE)(학생회관 2층)
 - [팬도로시](https://naver.me/xc9rX5tg) (학생회관 1층)
 - [카페 딕셔너리 광개토관](https://naver.me/5SWdxiPE) (광개토관 지하 1층) 
@@ -49,12 +51,12 @@ For support, email hslee9234@naver.com or join our Slack channel.
 
 
 Frontend
-- Sejong Univ.[이유진](https://github.com/newjinlee)_(학번)
-- Sejong Univ.[임채민](https://github.com/lcm1120)_(학번)
+- Sejong Univ.[이유진](https://github.com/newjinlee)_(21011578)
+- Sejong Univ.[임채민](https://github.com/lcm1120)_(19011698)
 
 Backend
-- Sejong Univ.[홍지섭](https://github.com/jiseop121)_(학번)
-- Sejong Univ.[이희수](https://github.com/gmltn9233)_(학번)
+- Sejong Univ.[홍지섭](https://github.com/jiseop121)_(19011706)
+- Sejong Univ.[이희수](https://github.com/gmltn9233)_(19011684)
 
 
 ## License
