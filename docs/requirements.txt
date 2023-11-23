@@ -5,6 +5,7 @@ sphinxcontrib-htmlhelp
 sphinxcontrib-jsmath
 sphinxcontrib-qthelp
 sphinxcontrib-serializinghtml
+sphinx-rtd-theme
 docutils
 numpy
 matplotlib
